@@ -1,0 +1,6 @@
+{
+  "name": "Smart Student Performance & Academic Tracker",
+  "description": "Comprehensive academic tracking system featuring a high-performance C++17 REST API backend with JSON persistence, grade calculations, rankings, improvement reports, and an interactive React analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

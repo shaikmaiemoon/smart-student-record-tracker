@@ -1,0 +1,114 @@
+[
+  {
+    "grade": "S",
+    "id": 101,
+    "marks": [
+      92.0,
+      95.0,
+      88.0,
+      94.0,
+      89.0
+    ],
+    "name": "Aarav Sharma",
+    "percentage": 91.6,
+    "total": 458.0
+  },
+  {
+    "grade": "A",
+    "id": 102,
+    "marks": [
+      85.0,
+      89.0,
+      91.0,
+      87.0,
+      93.0
+    ],
+    "name": "Priya Patel",
+    "percentage": 89.0,
+    "total": 445.0
+  },
+  {
+    "grade": "B",
+    "id": 103,
+    "marks": [
+      78.0,
+      74.0,
+      68.0,
+      82.0,
+      79.0
+    ],
+    "name": "Rohan Verma",
+    "percentage": 76.2,
+    "total": 381.0
+  },
+  {
+    "grade": "S",
+    "id": 104,
+    "marks": [
+      95.0,
+      98.0,
+      96.0,
+      99.0,
+      92.0
+    ],
+    "name": "Ananya Iyer",
+    "percentage": 96.0,
+    "total": 480.0
+  },
+  {
+    "grade": "D",
+    "id": 105,
+    "marks": [
+      54.0,
+      62.0,
+      48.0,
+      65.0,
+      58.0
+    ],
+    "name": "Vikram Singh",
+    "percentage": 57.4,
+    "total": 287.0
+  },
+  {
+    "grade": "A",
+    "id": 106,
+    "marks": [
+      82.0,
+      78.0,
+      85.0,
+      80.0,
+      75.0
+    ],
+    "name": "Neha Gupta",
+    "percentage": 80.0,
+    "total": 400.0
+  },
+  {
+    "grade": "C",
+    "id": 107,
+    "marks": [
+      63.0,
+      58.0,
+      72.0,
+      68.0,
+      70.0
+    ],
+    "name": "Kavya Reddy",
+    "percentage": 66.2,
+    "total": 331.0
+  },
+  {
+    "grade": "D",
+    "id": 108,
+    "marks": [
+      45.0,
+      52.0,
+      50.0,
+      48.0,
+      55.0
+    ],
+    "name": "Rahul Nair",
+    "percentage": 50.0,
+    "total": 250.0
+  }
+]
